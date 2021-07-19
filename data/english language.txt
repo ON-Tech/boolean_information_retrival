@@ -1,0 +1,10 @@
+The English Wikipedia is the English-language edition of the free online encyclopedia, Wikipedia. It was founded on 15 January 2001 as Wikipedia's first edition and, as of April 2021, has the most articles of any edition, at 6,295,315.[2] As of May 2021, 11% of articles in all Wikipedias belong to the English-language edition. This share has gradually declined from more than 50 percent in 2003, due to the growth of Wikipedias in other languages.[3][4] The edition's one-billionth edit was made on 13 January 2021.[5] The English Wikipedia has received praise for its enablement of democratization of knowledge and extent of coverage.[6] It is the largest encyclopedia ever assembled.[6]
+The English Wikipedia was the first Wikipedia edition and has remained the largest. It has pioneered many ideas as conventions, policies or features which were later adopted by Wikipedia editions in some of the other languages. These ideas include "featured articles",[7] the neutral-point-of-view policy,[8] navigation templates,[9] the sorting of short "stub" articles into sub-categories,[10] dispute resolution mechanisms such as mediation and arbitration,[11] and weekly collaborations.[12]
+
+The English Wikipedia has adopted features from Wikipedias in other languages. These features include verified revisions from the German Wikipedia and town population-lookup templates from the Dutch Wikipedia.
+
+Although the English Wikipedia stores images and audio files, as well as text files, many of the images have been moved to Wikimedia Commons with the same name, as passed-through files. However, the English Wikipedia also has fair-use images and audio/video files (with copyright restrictions), most of which are not allowed on Commons.
+
+Many of the most active participants in the Wikimedia Foundation, and the developers of the MediaWiki software that powers Wikipedia, are English-speaking users.
+
+Size
